@@ -1,0 +1,23 @@
+
+breweries:
+- cz-czech-republic!/1--pr-praha/breweries
+- cz-czech-republic!/2--st-stredni-cechy--central-bohemia/breweries
+- cz-czech-republic!/3--jc-jizni-cechy--southwest/breweries
+- cz-czech-republic!/3--pl-plzen--southwest/breweries
+- cz-czech-republic!/4--ka-karlovy-vary--northwest/breweries
+- cz-czech-republic!/4--us-usti-nad-labem--northwest/breweries
+- cz-czech-republic!/5--kr-hradec-kralove--northeast/breweries
+- cz-czech-republic!/5--li-liberec--northeast/breweries
+- cz-czech-republic!/5--pa-pardubice--northeast/breweries
+- cz-czech-republic!/6--jm-jizni-morova--southeast/breweries
+- cz-czech-republic!/6--vy-vysocina--southeast/breweries
+- cz-czech-republic!/7--ol-olomouc--central-moravia/breweries
+- cz-czech-republic!/7--zl-zlin--central-moravia/breweries
+- cz-czech-republic!/8--mo-moravskoslezsko/breweries
+- cz-czech-republic!/breweries.hl
+
+brewpubs:
+- cz-czech-republic!/1--pr-praha/brewpubs
+
+beers:
+- cz-czech-republic!/beers
