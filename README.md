@@ -21,7 +21,7 @@ Budweiser Budvar Tmavý Ležák [Dark Lager], 4.7%, 12°, dark_lager
 
 ## Real World Slideshow (Brewery n Beer Fotos)
 
-- [České Budějovice, Plzeň Beer Tour](https://plus.google.com/photos/100841117019192894371/albums/5915188043576154145) - Budějovický Budvar [Budweiser Budvar Brewery], Plzeňský Prazdroj [Pilsner Urquell Brewery]
+- [České Budějovice, Plzeň Beer Tour](https://plus.google.com/photos/100841117019192894371/albums/5915188043576154145) - Budějovický Budvar [Budweiser Budvar Brewery], Plzeňský Prazdroj [Pilsner Urquell Brewery], Pivovar Groll
 
 
 ## Questions? Comments?
