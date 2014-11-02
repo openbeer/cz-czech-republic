@@ -1,0 +1,11 @@
+############################
+# Breweries in Moravskoslezsko [Moravia-Silesia]
+
+
+[ostravar]
+  Pivovar Ostravar, 1897
+  Hornopolní 57 // 728 25  Ostrava 1
+  www.ostravar.cz
+## now part of staropramen (just a brand-only ??)
+
+

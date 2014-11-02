@@ -1,0 +1,24 @@
+############################
+# Breweries in Střední Čechy [Central Bohemia] | Central Bohemia
+
+
+[nymburk]
+  Pivovar Nymburk, 1895
+  Pražská 581 // 288 25  Nymburk
+  www.postriziny.cz
+#  Annual production: 149,000 hl (2002)
+
+
+[lobkowiczky]
+  Lobkowiczký Pivovar Vysoký Chlumec, 1466
+  Vysoký Chlumec // 262 52  Vysoký Chlumec
+  www.lobkowicz.cz
+# Annual production: 109,616 hl (2005)
+
+
+[klaster]
+  Pivovar Klášter (Pivovary Lobkowicz), 1570
+  294 15 Klášter Hradiště nad Jizerou // 
+  www.pivovarklaster.cz
+# Annual production: 76,778 hl (2003), 75,000 hl (2004)
+

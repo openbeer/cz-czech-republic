@@ -1,0 +1,18 @@
+############################
+# Breweries in Střední Čechy [Central Bohemia] | Central Bohemia
+
+
+[kozel]
+  Pivovar Velké Popovice (SAB Miller), 1874
+  Ringhofferova 1 // 251 69  Velké Popovice
+  www.beer-kozel.cz
+  sabmiller
+# Velkopopovický Kozel Brewery
+
+
+[krusovice]
+  Královský Pivovar Krušovice (Heineken), 1581
+  270 53 Krušovice //
+  www.krusovice.cz
+  heineken
+

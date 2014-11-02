@@ -1,0 +1,17 @@
+
+__________________________________________
+- Budějovický Budvar | České Budějovice
+
+Budweiser Budvar 10%            4%, 10°
+Budweiser Budvar 12%,           5%, 12°
+Budweiser Budvar Tmavý Ležák [Dark Lager], 4.7%, 12°, dark_lager  # Draught only (No bottles)
+
+______________________________________
+-  Pivovar Eggenberg | Český Krumlov
+
+Eggenberg Světlé Výčepní,              4%,  10°,  pale_lager
+Eggenberg Tmavý Ležák [Dark Lager],   4.2%,  11°, dark_lager
+Eggenberg Světlý Ležák,                5%,   12°, pale_lager
+
+
+

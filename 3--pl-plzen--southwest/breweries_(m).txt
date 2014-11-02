@@ -1,0 +1,10 @@
+############################
+# Breweries in Plzeň | Southwest
+
+
+[chodovar]
+  Chodovar, 1573
+  Pivovarská 107 // 348 13  Chodová Planá
+  www.chodovar.cz
+
+

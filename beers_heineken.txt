@@ -1,0 +1,30 @@
+
+
+=== Střední Čechy [Central Bohemia] === 
+_______________________________________________________
+- Královský Pivovar Krušovice (Heineken) | Krušovice
+
+Krušovice 10°
+Krušovice 12°
+Krušovice Černé [Dark],  3.8%, 10°,  dark_lager
+Krušovice Mušketýr,      4.5%, 11°,  pale_lager  # Výčepní
+Krušovice Malvaz 13°
+
+
+===  Jižní Morava [South Moravia] ===
+_________________________________________
+- Pivovar Starobrno (Heineken)  |  Brno
+
+Starobrno|Starobrno Ležák|Altbrünner Gold, 5%, 12°, czech_pilsener|pale_lager  # Světlý Ležák
+Starobrno Tradiční, 4%, 10°, pale_lager  # Výčepní
+Starobrno Medium, 4.5%, 11°, pale_lager  # Ležák
+Starobrno Černé [Dark Lager], 3.8%, 10°, dark_lager
+Starobrno Řezák [Amber Lager], 4%, 10°, amber_lager  # Výčepní
+
+_______________________________________
+- Pivovar Hostan (Heineken) | Znojmo
+
+Hostan Naše Pivko,  4%,   10°, pale_lager  # Výčepní
+Hostan Hradní,      4.7%, 11°, pale_lager  # Ležák
+
+

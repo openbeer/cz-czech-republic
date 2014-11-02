@@ -1,0 +1,18 @@
+############################
+# Breweries in Plzeň | Southwest
+
+
+[pilsner]
+  Plzeňský Prazdroj (SAB Miller) [Pilsner Urquell Brewery], 1839
+  www.pilsner-urquell.cz
+  U Prazdroje 7 // 304 97  Plzeň
+  sabmiller
+#  owned by SABMiller
+
+[gambrinus]
+  Pivovar Gambrinus (SAB Miller), 1869     ## NOTE: same address as Plzeňský Prazdroj
+  www.gambrinus.cz
+  U Prazdroje 7 // 304 97  Plzeň    # Part of Plzeňský Prazdroj [Pilsner Urquell Brewery]
+#  owned by SABMiller
+
+

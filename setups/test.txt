@@ -1,0 +1,15 @@
+
+## some breweries for testing
+
+cz-czech-republic!/1--pr-praha/breweries
+cz-czech-republic!/1--pr-praha/breweries_(l)
+cz-czech-republic!/2--st-stredni-cechy--central-bohemia/breweries
+cz-czech-republic!/2--st-stredni-cechy--central-bohemia/breweries_(m)
+cz-czech-republic!/2--st-stredni-cechy--central-bohemia/breweries_(l)
+cz-czech-republic!/3--jc-jizni-cechy--southwest/breweries
+cz-czech-republic!/3--jc-jizni-cechy--southwest/breweries_(m)
+cz-czech-republic!/3--jc-jizni-cechy--southwest/breweries_(l)
+cz-czech-republic!/3--pl-plzen--southwest/breweries
+cz-czech-republic!/3--pl-plzen--southwest/breweries_(m)
+cz-czech-republic!/3--pl-plzen--southwest/breweries_(l)
+

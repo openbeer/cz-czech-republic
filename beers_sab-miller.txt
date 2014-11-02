@@ -1,0 +1,37 @@
+
+=== Plzeň ===
+___________________________________________
+- Plzeňský Prazdroj (SAB Miller) | Plzeň
+
+Pilsner Urquell, pilsner|pale_lager
+
+___________________________________________
+- Pivovar Gambrinus (SAB Miller) | Plzeň      # NB: another gambrinus exists in romania
+
+Gambrinus Nefitrovaný Ležák [Unfilted],  pale_lager
+Gambrinus Originál 10°,       4.3%,  10°,  pale_lager    # Světlé Výčepní
+Gambrinus Excelent 11°,       4.7%
+Gambrinus Premium,             5%,  12°,   pale_lager  # Světlý Ležák
+Gambrinus Dry,                 4%
+
+
+=== Střední Čechy [Central Bohemia] ===
+____________________________________________
+- Pivovar Velké Popovice | Velké Popovice
+
+Kozel|Kozel Světlý|Velkopopovický Kozel, 4%, 10°, pale_lager  # Výčepní
+Kozel Medium 11°, 4.6%, 11°, pale_lager    # Ležák
+Kozel Premium,    4.8%, 12°, pale_lager   # Ležák
+Kozel Černý [Dark Lager], 3.8%, 10°, dark|munich_dunkel_lager
+
+
+
+
+=== Moravskoslezsko [Moravia-Silesia] ===
+____________________________________________
+- Pivovar Radegast (SAB Miller) | Nošovice
+
+Radegast Originál,  4%, 10°, czech_pilsener|pale_lager  # Výčepní
+Radegast Premium, 5.1%, 12°, czech_pilsener|pale_lager  # Ležák
+Radegast Temně Hořký    # seasonal ??  dark ??
+

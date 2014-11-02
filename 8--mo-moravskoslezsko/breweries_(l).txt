@@ -1,0 +1,10 @@
+############################
+# Breweries in Moravskoslezsko [Moravia-Silesia]
+
+
+[radegast]
+  Pivovar Radegast (SAB Miller), 1970
+  Nošovice // 739 51  Nošovice
+  www.radegast.cz
+  sabmiller
+

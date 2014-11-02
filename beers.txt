@@ -1,98 +1,4 @@
 
-_______________________________________________________
-- Plzeňský Prazdroj [Pilsner Urquell Brewery], Plzeň
-
-Pilsner Urquell, pilsner|pale_lager
-
-_______________________________________
-- Pivovar Gambrinus, Plzeň      # NB: another gambrinus exists in romania
-
-Gambrinus Nefitrovaný Ležák [Unfilted],  pale_lager
-Gambrinus Originál 10°,       4.3%,  10°,  pale_lager    # Světlé Výčepní
-Gambrinus Excelent 11°,       4.7%
-Gambrinus Premium,             5%,  12°,   pale_lager  # Světlý Ležák
-Gambrinus Dry,                 4%
-
-__________________________________
-- Chodovar, Chodová Planá
-
-Chodovar Zlatý Ležák 11%,       4.5%, 11°, pale_lager
-Chodovar Pašerák Světlé,          4%
-Chodovar Prezident Premium,       5%, 12°, pale_lager
-Chodovar Zámecký Ležák Special, 5.1%, 13°  pale_lager
-Chodovar Černá Desítka [Dark Lager],  4.2%,  dark_lager
-
-
-____________________________________________________________________
-- Budějovický Budvar [Budweiser Budvar Brewery], České Budějovice
-
-Budweiser Budvar 10%            4%, 10°
-Budweiser Budvar 12%,           5%, 12°
-Budweiser Budvar Tmavý Ležák [Dark Lager], 4.7%, 12°, dark_lager  # Draught only (No bottles)
-
-______________________________________
--  Pivovar Eggenberg, Český Krumlov
-
-Eggenberg Světlé Výčepní,              4%,  10°,  pale_lager
-Eggenberg Tmavý Ležák [Dark Lager],   4.2%,  11°, dark_lager
-Eggenberg Světlý Ležák,                5%,   12°, pale_lager
-
-
-
-
-___________________________________________________
-- Pivovar Starobrno [Starobrno Brewery], Brno
-
-Starobrno|Starobrno Ležák|Altbrünner Gold, 5%, 12°, czech_pilsener|pale_lager  # Světlý Ležák
-Starobrno Tradiční, 4%, 10°, pale_lager  # Výčepní
-Starobrno Medium, 4.5%, 11°, pale_lager  # Ležák
-Starobrno Černé [Dark Lager], 3.8%, 10°, dark_lager
-Starobrno Řezák [Amber Lager], 4%, 10°, amber_lager  # Výčepní
-
-____________________________
-- Pivovar Velké Popovice
-
-Kozel|Kozel Světlý|Velkopopovický Kozel, 4%, 10°, pale_lager  # Výčepní
-Kozel Medium 11°, 4.6%, 11°, pale_lager    # Ležák
-Kozel Premium,    4.8%, 12°, pale_lager   # Ležák
-Kozel Černý [Dark Lager], 3.8%, 10°, dark|munich_dunkel_lager
-
-______________________________
-- Pivovar Radegast, Nošovice
-
-Radegast Originál,  4%, 10°, czech_pilsener|pale_lager  # Výčepní
-Radegast Premium, 5.1%, 12°, czech_pilsener|pale_lager  # Ležák
-Radegast Temně Hořký    # seasonal ??  dark ??
-
-________________________________
-- Pivovar Hostan, Znojmo
-
-Hostan Naše Pivko,  4%,   10°, pale_lager  # Výčepní
-Hostan Hradní,      4.7%, 11°, pale_lager  # Ležák
-
-________________________________________________________
-- Pivovary Staropramen [Staropramen Brewery], Praha
-
-Staropramen Svĕtlý,   4%, 10°, pale_lager   # Výčepní
-Staropramen Ležák,  5.2%, 12°, pale_lager   # Ležák
-Staropramen Černý [Dark], 4.5%, 11°, dark_lager
-Staropramen Granát [Amber Lager], 4.8%, 11°, red_lager
-
-Braník Světlý
-Braník Jedenáctka 11°
-Braník Ležák
-
-Sládkův Měšťan,     pale_lager # A brand from the closed Prague Měšťan brewery.
-Vratislav,          pale_lager # Tranferred after the closure of the brewery in Vratislavice.
-
-
-
-________________________________
--  Pivovar Ostravar, Ostrava
-
-Ostravar Originál, 4.3%, 10°, pale_lager  # Výčepní
-Ostravar Premium,  5.1%, 12°, pale_lager  # Ležák 
-
 
 ________________________________________
 -  Pivovar Broumov, Broumov-Olivětín
@@ -131,14 +37,6 @@ __________________________________________
 Zlatopramen Světlé Výčepní,  4.1%,  10°,  pale_lager
 Zlatopramen 11°,             4.7%,  11°,  pale_lager # Ležák
 
-_________________________________
-- Královský Pivovar Krušovice
-
-Krušovice 10°
-Krušovice 12°
-Krušovice Černé [Dark],  3.8%, 10°,  dark_lager
-Krušovice Mušketýr,      4.5%, 11°,  pale_lager  # Výčepní
-Krušovice Malvaz 13°
 
 ____________________________
 -  Bernard Pivo, Humpolec
@@ -151,9 +49,3 @@ Bernard Světlý Výčepní 10%,     3.8%, 10°, pale_lager  # Světlé výčepn
 Bernard Světlý Ležák 11%,       4.5%, 11°, pale_lager  # Světlý ležák
 Bernard Světlý Ležák 12%,       4.7%, 12°, pale_lager  # Světlý ležák
 Bernard Speciální Ležák 14% OX, 5.8%, 14°, pale_lager  # Speciální světlé pivo
-
-___________________
-- U Fleků, Praha
-
-U Fleků Flekovský Ležák [Dark Lager],  5.5%, 13°, dark_lager  # Speciální / Brewpub
-

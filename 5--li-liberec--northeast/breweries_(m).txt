@@ -1,0 +1,10 @@
+############################
+# Breweries in Liberec | Northeast
+
+
+[svijany]
+  Pivovar Svijany, 1564
+  Svijany č.p.25 // 463 46 Příšovice // 463 46 Svijany
+  www.pivovarsvijany.cz
+# Annual production: 205,007 hl (2005)
+

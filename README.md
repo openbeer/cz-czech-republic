@@ -42,6 +42,28 @@ Budweiser Budvar Tmavý Ležák [Dark Lager], 4.7%, 12°, dark_lager
 ~~~
 
 
+## Mid-size (m), Large (l) Brewery Definitions
+
+NOTE:
+
+- Large     => 500_000+ hl
+- Mid-size  => < 500_000 hl
+
+
+
+## Build Your Own `pivo.db` Copy
+
+Use the `beerdb` command line tool to build your own `pivo.db` copy
+from the plain text data sets. [More »](https://github.com/openbeer/build)
+
+### Examples
+
+Build the database for all Czech beers, breweries n brewpubs:
+
+    $ rake build DATA=cz
+
+
+
 ## Real World Slideshow (Brewery n Beer Fotos)
 
 - [České Budějovice, Plzeň Beer Tour](https://plus.google.com/photos/100841117019192894371/albums/5915188043576154145) - Budějovický Budvar [Budweiser Budvar Brewery], Plzeňský Prazdroj [Pilsner Urquell Brewery], Pivovar Groll

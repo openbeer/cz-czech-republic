@@ -1,0 +1,24 @@
+############################
+# Breweries in Pardubice | Northeast
+
+
+[pardubice]
+  Pivovar Pardubice, 1871
+  Palackého 250 // 530 33  Pardubice
+  www.pernstejn.cz
+# Annual production: 89,460 hl (2005)
+
+
+[policka]
+  Měšťanský pivovar v Poličce, 1517
+  Pivovarská 151 // 572 14  Polička
+  www.pivovar-policka.cz
+# Annual production: 85,000 hl (2005)
+
+
+[rychtar]
+  Pivovar Rychtář (Pivovary Lobkowicz), 1913
+  Resslova 260 // 539 01  Hlinsko v Čechách
+  www.rychtar.cz
+# Annual production: 86,000 hl (2002), 86,864 hl (2003)
+

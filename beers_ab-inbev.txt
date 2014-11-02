@@ -1,0 +1,27 @@
+
+=== Praha ===
+____________________________________________
+- Pivovary Staropramen (AB InBev) | Praha
+
+Staropramen Svĕtlý,   4%, 10°, pale_lager   # Výčepní
+Staropramen Ležák,  5.2%, 12°, pale_lager   # Ležák
+Staropramen Černý [Dark], 4.5%, 11°, dark_lager
+Staropramen Granát [Amber Lager], 4.8%, 11°, red_lager
+
+Braník Světlý
+Braník Jedenáctka 11°
+Braník Ležák
+
+Sládkův Měšťan,     pale_lager # A brand from the closed Prague Měšťan brewery.
+Vratislav,          pale_lager # Tranferred after the closure of the brewery in Vratislavice.
+
+
+
+=== Moravskoslezsko [Moravia-Silesia] ===
+
+___________________________________________
+-  Pivovar Ostravar (AB InBev) | Ostrava
+
+Ostravar Originál, 4.3%, 10°, pale_lager  # Výčepní
+Ostravar Premium,  5.1%, 12°, pale_lager  # Ležák 
+
