@@ -4,7 +4,7 @@
 
 [samson]
   Budějovický Měšťanský Pivovar, 1795
-  Lidická 458/51 // 37054 České Budějovice
+  Lidická 458/51 // 370 54 České Budějovice
   www.samson.cz
 
 # Annual production: 210,000 hl (2003), 198,000 hl (2004)
