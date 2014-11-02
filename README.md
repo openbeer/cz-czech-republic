@@ -4,7 +4,7 @@
 - [(PR) Praha [Prague]](1--pr-praha)
 - [(ST) Střední Čechy [Central Bohemia]](2--st-stredni-cechy--central-bohemia)  - Velké Popovice, Kutná Hora, Krušovice
 - Southwest
-    - [(JC) Jižní Čechy [Southern Bohemia]](3--jc-jizni-cechy--southwest)j  - České Budějovice, Český Krumlov, Třeboň
+    - [(JC) Jižní Čechy [Southern Bohemia]](3--jc-jizni-cechy--southwest)  - České Budějovice, Český Krumlov, Třeboň
     - [(PL) Plzeň](3--pl-plzen--southwest)  - Plzeň, Chodová Planá
 - Northwest
     - [(KA) Karlovy Vary](4--ka-karlovy-vary--northwest)  - Karlovy Vary, Náchod
@@ -19,7 +19,7 @@
 - Central Moravia
     - [(OL) Olomouc](7--ol-olomouc--central-moravia)  - Olomouc, Hanušovice, Přerov, Litovel
     - [(ZL) Zlín](7--zl-zlin--central-moravia)  -  Zlín, Uherský Brod 
-- [(MO) Moravskoslezsko](8--mo-moravskoslezsko)  -  Ostrava,  Nošovice
+- [(MO) Moravskoslezsko [[Moravia-Silesia]](8--mo-moravskoslezsko)  -  Ostrava,  Nošovice
 
 
 
