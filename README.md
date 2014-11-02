@@ -19,7 +19,7 @@
 - Central Moravia
     - [(OL) Olomouc](7--ol-olomouc--central-moravia)  - Olomouc, Hanušovice, Přerov, Litovel
     - [(ZL) Zlín](7--zl-zlin--central-moravia)  -  Zlín, Uherský Brod 
-- [(MO) Moravskoslezsko [[Moravia-Silesia]](8--mo-moravskoslezsko)  -  Ostrava,  Nošovice
+- [(MO) Moravskoslezsko [Moravia-Silesia]](8--mo-moravskoslezsko)  -  Ostrava,  Nošovice
 
 
 
